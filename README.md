@@ -4,6 +4,8 @@ Spell checkers are ubiquitous in everyday applications, seamlessly integrated in
 processors, browsers, and communication platforms, making them easily accessible to 
 users.
 
+<img width="674" alt="image" src="https://github.com/gaurav5268/spell-checker/assets/121161981/1596d1c3-fe7e-43c4-a209-ac7f8b405284">
+
 Data Requirement
 
 We need a trusted text corpus that we'll use to build the auto-correct system. There are many 
