@@ -4,7 +4,8 @@ Spell checkers are ubiquitous in everyday applications, seamlessly integrated in
 processors, browsers, and communication platforms, making them easily accessible to 
 users.
 
-<img width="674" alt="image" src="https://github.com/gaurav5268/spell-checker/assets/121161981/1596d1c3-fe7e-43c4-a209-ac7f8b405284">
+<img width="669" alt="image" src="https://github.com/gaurav5268/spell-checker/assets/121161981/d00ea938-a7ca-4d68-9e5c-5ce0e1c46692">
+
 
 Data Requirement
 
